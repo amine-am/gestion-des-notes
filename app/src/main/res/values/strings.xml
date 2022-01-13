@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DevoirLibre</string>
+
+    <string-array name="modules">
+        <item>Anglais</item>
+        <item>Mathématiques</item>
+        <item>Physique</item>
+        <item>Histoire</item>
+        <item>Informatique</item>
+    </string-array>
+</resources>
